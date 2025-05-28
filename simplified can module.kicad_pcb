@@ -117,7 +117,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0 1.43 90)
+			(at 0 2.921 90)
 			(layer "F.Fab")
 			(uuid "cb158fc2-70a1-45d8-a8ff-70e3062c525c")
 			(effects
@@ -317,7 +317,7 @@
 			)
 		)
 		(property "Value" "120R"
-			(at 0 1.43 0)
+			(at 1.27 2.159 0)
 			(layer "F.Fab")
 			(uuid "7d283535-96b1-4ccc-b997-e046d01cea08")
 			(effects
@@ -1897,7 +1897,7 @@
 			)
 		)
 		(property "Value" "20MHz"
-			(at 0 3.55 0)
+			(at -0.254 -3.556 0)
 			(layer "F.Fab")
 			(uuid "35ec7def-486c-4ca5-a595-494340816bb6")
 			(effects
@@ -3152,7 +3152,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 0)
+			(at -2.286 2.413 0)
 			(layer "F.Fab")
 			(uuid "5df2f1a7-06ea-46a9-8d00-521fbbc1cb85")
 			(effects
@@ -3353,7 +3353,7 @@
 			)
 		)
 		(property "Value" "SCREW-TERMINAL-2P'5.08'"
-			(at 0 7.46 0)
+			(at 0.254 9.398 0)
 			(layer "F.Fab")
 			(uuid "7f814009-0679-490d-8374-7a7775e4ae0e")
 			(effects
@@ -3617,7 +3617,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.43 0)
+			(at -0.127 2.159 0)
 			(layer "F.Fab")
 			(uuid "32a26a58-f11f-45b2-86b0-21e3e4c87fc2")
 			(effects
@@ -3817,7 +3817,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0 1.43 90)
+			(at 0.127 -2.032 90)
 			(layer "F.Fab")
 			(uuid "9202c8d8-f6c7-4621-9357-e51e445de9e3")
 			(effects
