@@ -4349,18 +4349,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "L"
-		(at 141.605 90.17 0)
-		(layer "F.SilkS")
-		(uuid "3e377e01-3401-4347-a54a-573b67b1438e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "MISO"
 		(at 121.031 87.376 0)
 		(layer "F.SilkS")
@@ -4425,6 +4413,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "CANL"
+		(at 139.573 89.916 0)
+		(layer "F.SilkS")
+		(uuid "73832529-c222-4c28-a23f-10f9dd867809")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "RX"
 		(at 136.271 82.169 0)
 		(layer "F.SilkS")
@@ -4438,13 +4438,13 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "H"
-		(at 141.605 87.503 0)
+	(gr_text "CANH"
+		(at 139.573 87.503 0)
 		(layer "F.SilkS")
 		(uuid "a6e169cd-61bb-4d7d-bfdc-0332807d225c")
 		(effects
 			(font
-				(size 1 1)
+				(size 0.75 0.75)
 				(thickness 0.15)
 			)
 			(justify left bottom)
