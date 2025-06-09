@@ -4463,6 +4463,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "spicanfd r1.1\ncopyright (c) 2025 Eli Rutan"
+		(at 133.096 82.169 0)
+		(layer "B.SilkS")
+		(uuid "2ea8d8f5-1d4f-4f62-83c3-2dd66e1f011f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(via
 		(at 126.238 82.055)
 		(size 0.6)
